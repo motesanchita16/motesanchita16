@@ -33,126 +33,76 @@ https://github.com/anuraghazra/github-readme-stats
 Machine Learning • Deep Learning • Computer Vision • Data Science • REST APIs • SQL • Database Systems • Full-Stack Development • Blockchain
 
 ---
-
-## 🚀 Projects — Showcase
-
 ## 🚀 Projects — Showcase
 
 <table>
-  <tr>
+<tr>
+<td width="50%" align="center">
 
-    <!-- Landslide -->
-    <td align="center" width="50%">
-      <a href="YOUR_LANDSLIDE_REPO_URL">
-        <img
-          src="./assets/landslide.png"
-          alt="Landslide Risk Monitoring Project"
-          width="100%"
-          height="200"
-        />
-      </a>
-      <br/>
-      <b>🏔️ Landslide Risk Monitoring System</b>
-      <br/>
-      <sub>
-        Software-based AI/ML system for analysing landslide risk
-        and supporting early-warning decisions in North-East India.
-      </sub>
-      <br/>
-      🔗 <a href="YOUR_LANDSLIDE_REPO_URL">Repo</a>
-      <br/>
-      <sub>
-        Tags: Machine Learning • Data Science • Risk Monitoring • AI
-      </sub>
-    </td>
+<a href="YOUR_LANDSLIDE_REPO_URL">
+<img src="./assets/landslide.png" width="100%" height="200" alt="Landslide Risk Monitoring System">
+</a>
 
-    <!-- Agri Supply Chain Blockchain -->
-    <td align="center" width="50%">
-      <a href="https://github.com/motesanchita16/agri-supply-chain-blockchain">
-        <img
-          src="./assets/agri-supply-chain.png"
-          alt="Agri Supply Chain Blockchain"
-          width="100%"
-          height="200"
-        />
-      </a>
-      <br/>
-      <b>⛓️ Agri Supply Chain Blockchain</b>
-      <br/>
-      <sub>
-        Blockchain-based agricultural supply chain project using
-        Solidity, Hardhat, TypeScript, and Ethereum tooling.
-      </sub>
-      <br/>
-      🔗
-      <a href="https://github.com/motesanchita16/agri-supply-chain-blockchain">
-        Repo
-      </a>
-      <br/>
-      <sub>
-        Tags: Blockchain • Solidity • Hardhat • Ethereum • TypeScript
-      </sub>
-    </td>
+### 🏔️ Landslide Risk Monitoring System
 
-  </tr>
+Software-based AI/ML system for analysing landslide risk and supporting early-warning decisions in North-East India.
 
-  <tr>
+**Machine Learning • Data Science • Risk Monitoring • AI**
 
-    <!-- HandSpeak -->
-    <td align="center" width="50%">
-      <a href="https://github.com/motesanchita16/Indian-sign-language-learning-platform">
-        <img
-          src="./assets/HandSpeak.png"
-          alt="HandSpeak Project"
-          width="100%"
-          height="200"
-        />
-      </a>
-      <br/>
-      <b>🤟 HandSpeak</b>
-      <br/>
-      <sub>
-        AI-powered Indian Sign Language learning platform using
-        computer vision and deep learning.
-      </sub>
-      <br/>
-      🔗
-      <a href="https://github.com/motesanchita16/Indian-sign-language-learning-platform">
-        Repo
-      </a>
-      <br/>
-      <sub>
-        Tags: Computer Vision • Deep Learning • Flask • MediaPipe • CNN
-      </sub>
-    </td>
+<a href="YOUR_LANDSLIDE_REPO_URL">🔗 View Repository</a>
 
-    <!-- Missing Person -->
-    <td align="center" width="50%">
-      <a href="YOUR_MISSING_PERSON_REPO_URL">
-        <img
-          src="./assets/missing-person.png"
-          alt="Missing Person Identification Project"
-          width="100%"
-          height="200"
-        />
-      </a>
-      <br/>
-      <b>🔎 AI-Based Missing Person Identification</b>
-      <br/>
-      <sub>
-        Face recognition system combined with public-assisted
-        reporting and human-in-the-loop verification.
-      </sub>
-      <br/>
-      🔗
-      <a href="YOUR_MISSING_PERSON_REPO_URL">Repo</a>
-      <br/>
-      <sub>
-        Tags: Face Recognition • Deep Learning • Computer Vision • AI
-      </sub>
-    </td>
+</td>
 
-  </tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/motesanchita16/agri-supply-chain-blockchain">
+<img src="./assets/agri-supply-chain.png" width="100%" height="200" alt="Agri Supply Chain Blockchain">
+</a>
+
+### ⛓️ Agri Supply Chain Blockchain
+
+Blockchain-based agricultural supply chain project using Solidity, Hardhat, TypeScript, and Ethereum tooling.
+
+**Blockchain • Solidity • Hardhat • Ethereum • TypeScript**
+
+<a href="https://github.com/motesanchita16/agri-supply-chain-blockchain">🔗 View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<a href="https://github.com/motesanchita16/Indian-sign-language-learning-platform">
+<img src="./assets/HandSpeak.png" width="100%" height="200" alt="HandSpeak">
+</a>
+
+### 🤟 HandSpeak
+
+AI-powered Indian Sign Language learning platform using computer vision and deep learning.
+
+**Computer Vision • Deep Learning • Flask • MediaPipe • CNN**
+
+<a href="https://github.com/motesanchita16/Indian-sign-language-learning-platform">🔗 View Repository</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="YOUR_MISSING_PERSON_REPO_URL">
+<img src="./assets/missing-person.png" width="100%" height="200" alt="AI-Based Missing Person Identification">
+</a>
+
+### 🔎 AI-Based Missing Person Identification
+
+Face recognition system combined with public-assisted reporting and human-in-the-loop verification.
+
+**Face Recognition • Deep Learning • Computer Vision • AI**
+
+<a href="YOUR_MISSING_PERSON_REPO_URL">🔗 View Repository</a>
+
+</td>
+</tr>
 </table>
 
 ---
