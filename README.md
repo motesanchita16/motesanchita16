@@ -36,6 +36,8 @@ Machine Learning • Deep Learning • Computer Vision • Data Science • REST
 
 ## 🚀 Projects — Showcase
 
+## 🚀 Projects — Showcase
+
 <table>
   <tr>
 
@@ -142,7 +144,8 @@ Machine Learning • Deep Learning • Computer Vision • Data Science • REST
         reporting and human-in-the-loop verification.
       </sub>
       <br/>
-      🔗 <a href="YOUR_MISSING_PERSON_REPO_URL">Repo</a>
+      🔗
+      <a href="YOUR_MISSING_PERSON_REPO_URL">Repo</a>
       <br/>
       <sub>
         Tags: Face Recognition • Deep Learning • Computer Vision • AI
